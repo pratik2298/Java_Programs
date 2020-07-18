@@ -1,0 +1,24 @@
+Pr1:-wajp to read amount and if the amount is > 150 then give 10% discount elso no discount 
+     print the final amount
+
+Pr2:-wajp to read the number of tshirts purchased 
+     if not(no of tshirts) >= 10 then u get 2 free tshirts
+     if not >= 5 then u get 1 free tshirt else nothing
+
+Pr3:-wajp to read day of the month and display the parking side
+     even --> right side odd --> left side 
+
+Pr4:-wajp to read marks and display grade
+     m >= 70 Distinction
+     m >= 60 First class
+     m >= 50 Second class
+     m >= 40 Pass class
+     else    Fail
+
+
+Pr5:-wajp to read rating and give the feedback
+     5,4 ---> Excellent
+     3,2 ---> ok
+     1 ---> poor
+
+Pr8:-wajp to read first 3 letters of month & display no of day
