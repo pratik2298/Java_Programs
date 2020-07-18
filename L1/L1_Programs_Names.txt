@@ -1,0 +1,13 @@
+P1 = "hello world"
+
+Pr2 = wajp to add two integer from CLA
+
+Pr3 = wajp to read two integer n1 and n2 display them before exchange and
+      display them after exchange n1=20 n2=10 n1=10 n2=20
+
+Pr4 = wajp to read two integer n1 and n2 display them before exchange and
+      display them after exchange  without using third variable n1=20 n2=10 & n1=10 n2=20
+
+Pr5 = wajp to read length and width and find the display area of rect
+
+Pr6 = wajp to find the area of circle - radius from CLA

@@ -1,0 +1,43 @@
+// waoojp for class Circle
+
+class Circle
+{
+private double radius;
+
+public void setData(double radius)
+{
+this.radius = radius;
+}
+
+public void showData()
+{
+System.out.println("Radius = " +radius);
+}
+
+public double Area()
+{
+double ans = 3.14 * radius * radius;
+return ans;
+}
+
+public double circum()
+{
+double rep = 2 * 3.14 * radius;
+return rep;
+}
+}
+
+class CircleTest
+{
+public static void main(String args[])
+{
+Circle c1 = new Circle;
+c1.setData(Double.parseDouble(args[0]);
+c1.showData();
+a1 = c1.Area();
+a2 = c2.circum();
+System.out.println("AREA = " +a1 + "\n CIRCUMFERENCE =" +a2);
+}
+} 
+
+

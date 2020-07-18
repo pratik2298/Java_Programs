@@ -1,0 +1,3 @@
+Main-Class: pa.T1Test
+
+
